@@ -1,4 +1,4 @@
-![thumbnail](https://github.com/matsu-no-ta/coding--Burgerone/assets/167067672/25cad55f-58d9-432b-881e-83e53d3ccc24)
+![thumbnail](https://github.com/matsu-no-ta/Coading-Burgerone/assets/167067672/8c8e97ee-9758-4db2-8a15-2bdd6e52fe34)
 
 
 # コーディング --- Burger One!
