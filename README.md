@@ -2,7 +2,6 @@
 
 
 # コーディング --- Burger One!　　
-https://matsu-web.blog/portfolio.matsu-web.blog/demo-page/avenir/index.html
 
 ## 概要
 模写修行 (https://moshashugyo.com/) に掲載されているページデザインを使用したコーディング
@@ -10,6 +9,8 @@ https://matsu-web.blog/portfolio.matsu-web.blog/demo-page/avenir/index.html
 ページデザイン：模写修行
 
 コーディング：松田
+
+表示：https://matsu-web.blog/portfolio.matsu-web.blog/demo-page/avenir/index.html
 
 ## 連絡先
 [@matsunota_t](https://twitter.com/matsunota_t)
